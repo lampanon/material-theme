@@ -1,6 +1,6 @@
 !
 name: "Material Theme"
-time: 1556637721
+time: 1556639813
 author: "NotSoSnake"
 @
 bubbleCorner: 20
@@ -10,31 +10,29 @@ parentTheme: 5
 wallpaperOverrideUnread: 1
 #
 attachContact, avatarRed, badge, badgeFailed, bubbleIn_progress, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_textLink, bubbleOut_waveformActive, chatListAction, chatListVerify, chatSendButton, circleButtonNegative, circleButtonNewChat, circleButtonRegular, circleButtonTheme, controlActive, file, fileRed, fillingNegative, headerBackground, headerBarCallActive, iconActive, iconNegative, inputActive, messageSwipeBackground, messageVerticalLine, nameRed, playerButtonActive, profileSectionActive, progress, promo, seekDone, sliderActive, textLink, textNeutral, textSearchQueryHighlight, textSelectionHighlight, themeRed, waveformActive: #E53935
-attachFile, avatarYellow, fileYellow, nameYellow: #FBC02D
+attachFile, avatarYellow, circleButtonNewChannel, fileYellow, nameYellow: #FBC02D
 attachInlineBot, avatarViolet, nameViolet: #7E57C2
-attachLocation, avatarGreen, fileGreen, headerBarCallIncoming, iconPositive, inputPositive, nameGreen, notificationSecure, textSecure: #43A047
+attachLocation, avatarGreen, circleButtonNewSecret, circleButtonPositive, fileGreen, headerBarCallIncoming, iconPositive, inputPositive, nameGreen, notificationSecure, textSecure: #43A047
 attachPhoto, avatarBlue, avatarSavedMessages, fillingPositive, nameBlue, themeBlue, togglerPositive: #1E88E5
 avatarCyan, nameCyan: #00ACC1
 avatarInactive, badgeMuted, chatListMute, circleButtonChatIcon, circleButtonOverlayIcon, fileAttach, introSection, nameInactive, playerCoverPlaceholder, seekEmpty, themeNightBlack: #8E8E8E
-avatarOrange, nameOrange: #FB8C00
+avatarOrange, circleButtonNewGroup, nameOrange: #FB8C00
 avatarPink, namePink: #F48FB1
-background, overlayFilling: #484848
-background_icon, bubbleOut_waveformInactive, chatKeyboard, chatKeyboardButton, controlInactive, headerLightIcon, icon, inputInactive, playerButton, seekReady, sliderInactive, themeWhiteBlack, ticks, ticksRead, togglerInactive, waveformInactive: #AEAEAE
-background_text, bubbleOut_time, chatSeparator, iconLight, shareSeparator, textLight, unread: #EFEFEF
-background_textLight, bubbleIn_text, bubbleOut_text, bubbleOut_ticks, bubbleOut_ticksRead, caption_textLink, circleButtonChat, circleButtonOverlay, circleButtonRegularIcon, headerButtonIcon, headerLightText, headerText, introSectionActive, playerCoverIcon, text: #FFF
+background, fillingPressed: #474747
+background_icon, bubbleOut_waveformInactive, controlInactive, headerLightIcon, icon, inputInactive, playerButton, seekReady, sliderInactive, themeWhiteBlack, ticks, ticksRead, togglerInactive, waveformInactive: #AEAEAE
+background_text, bubbleOut_time, chatSeparator, iconLight, shareSeparator, textLight, togglerInactiveBackground, unread: #EFEFEF
+background_textLight, bubbleIn_text, bubbleOut_text, bubbleOut_ticks, bubbleOut_ticksRead, caption_textLink, chatKeyboardButton, circleButtonChat, circleButtonOverlay, circleButtonRegularIcon, headerButtonIcon, headerLightText, headerText, introSectionActive, playerCoverIcon, text: #FFF
 bubble_chatBackground, filling, separator: #373737
 bubble_chatSeparator: #EFEFEF00
 bubble_messageCheckOutlineNoWallpaper, bubble_messageSelection, bubble_messageSelectionNoWallpaper: #585858
-bubbleIn_background, bubbleOut_background, caption_textLinkPressHighlight, chatBackground: #434343
-bubbleIn_textLinkPressHighlight, bubbleOut_progress, bubbleOut_textLinkPressHighlight, headerButton: #FF7961
+bubbleIn_background, bubbleOut_background, caption_textLinkPressHighlight, chatBackground, chatKeyboard, headerLightBackground, previewBackground: #434343
+bubbleIn_textLinkPressHighlight, bubbleOut_progress, bubbleOut_textLinkPressHighlight, headerButton, togglerNegativeBackground: #FF7961
 bubbleIn_time: #A3A3A3
 bubbleOut_inlineIcon, inputNegative, notification, notificationPlayer, passcode, profileSectionActiveContent, textNegative: #AB000D
 bubbleOut_outline: #BECFE000
-fillingPressed: #6D6D6D
 headerBarCallMuted: #757575
-headerLightBackground: #494949
 messageSelection: #1B1B1B
+overlayFilling: #484848
 placeholder: #8E8E8E64
-previewBackground: #37373725
 textLinkPressHighlight: #E5393564
 togglerActiveBackground: #FF6F60
