@@ -1,2 +1,1 @@
-# materialTheme
-A Material Theme for Telegram X.
+# Material Theme for Telegram X
